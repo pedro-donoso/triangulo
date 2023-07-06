@@ -1,5 +1,6 @@
+#[ Ruby on Replit](https://replit.com/@odikil/flujos)
+
 ![triangulo](https://github.com/pedro-donoso/triangulo/assets/68760595/be50f95d-3ce0-47b1-8848-bc0b023ff92a)
-# Ruby on Replit
 
 puts '==== EJERCICIO 1 ===='
 puts '1) Este código escribe los números PARES desde 0 hasta 20'
