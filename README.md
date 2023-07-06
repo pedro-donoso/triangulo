@@ -1,19 +1,19 @@
 # Ruby on Replit
 
-This is a template to get you started with Ruby on Replit. It's ready to go so you can just hit run and start coding!
+puts '==== EJERCICIO 1 ===='
+puts '1) Este código escribe los números PARES desde 0 hasta 20'
 
-## Running the repl
+########################################
 
-Simply hit run! You can edit the run command from the `.replit` file.
+puts '==== EJERCICIO 2 ===='
+puts '1) Este código escribe los números IMPARES desde 0 hasta 20'
 
-## Installing packages
+########################################
 
-To add packages to your repl, we recommend using the Replit packager interface in the left sidebar or using `bundle install` in the shell. Check out the [Bundle docs here](https://bundler.io/guides/getting_started.html).
+puts '==== EJERCICIO 3 ===='
+puts '1) Este código muestra la tabla de multiplicar del 0 hasta el 9'
 
-**Warning: Avoid using `gem install` to add packages.**
+########################################
 
-Beacuse Ruby repls use [Bundle](https://bundler.io/) under the hood to provide a consistent environment that tracks and installs the exact gems and versions needed, we recommend using `bundle install` instead of `gem install`, which may not work as expected.
-
-## Help
-
-If you need help you might be able to find an answer on our [docs](https://docs.replit.com) page. Feel free to report bugs and give us feedback [here](https://replit.com/support).
+puts '==== EJERCICIO 4 ===='
+puts '* Este código dibuja un triángulo'
